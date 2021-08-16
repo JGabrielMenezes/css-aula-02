@@ -1,0 +1,20 @@
+p::first-letter {
+    color: blue;
+    font-size: 50px;
+}
+
+.list{
+    color: darkgreen;
+}
+    
+a:visited {
+    color: maroon;
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+a:active{
+    color: blue;
+}
